@@ -6,4 +6,4 @@
 
 
 ## Individual Reports
-The individual submissions for this project can be found by navigating to a members' name, and then navigating into either the regression or classification directories. Included within those directories are an .ipynb file for the models and a .csv file for the dataset. 
+The individual submissions for this project can be found by navigating to a members' name, and then navigating into either the regression or classification directories. Included within those directories are an .ipynb file for the models and a .csv file for the dataset. Note - Mitchell Rhead used excel files rather than .csv because of some compatability errors. 
