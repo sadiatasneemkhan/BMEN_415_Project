@@ -1,9 +1,9 @@
-BMEN-415-Project
-Winter 2022
-Group 12
+# BMEN_415_Project
+**Winter 2022 <br/> Group 12**
 
 *********************************************
+## Group Report
 
-Greetings!
 
-The individual submissions for this project can be found by navigating to a members' name, and then navigating into either the regression or classification directories. From there, you should find the python3 model, as well as the dataset that should be run for that code. 
+## Individual Reports
+The individual submissions for this project can be found by navigating to a members' name, and then navigating into either the regression or classification directories. Included within those directories are an .ipynb file for the models and a .csv file for the dataset. 
